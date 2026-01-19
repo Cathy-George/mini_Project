@@ -16,7 +16,7 @@ const InputForm = ({ onAnalyze, loading }) => {
         <div className="w-full max-w-2xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
             <div className="text-center space-y-4">
                 <h2 className="text-4xl font-extrabold text-brand-accent">
-                    Career Skill Gap Analyzer
+                    CareerPath
                 </h2>
                 <p className="text-brand-muted text-lg">
                     Discover your path to your dream job with AI-powered analysis
